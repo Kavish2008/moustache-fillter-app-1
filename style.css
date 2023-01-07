@@ -1,0 +1,8 @@
+.heading{
+    font-size: 25px !important;
+    color: black !important;
+}
+canvas{
+    background-color: white;
+    border: 1px solid black;
+}
